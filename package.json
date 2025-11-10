@@ -85,7 +85,7 @@
     "@modelcontextprotocol/sdk": "^1.21.1",
     "commander": "^14.0.0",
     "dotenv": "^17.2.0",
-    "zod": "^3.25.47"
+    "zod": "^4.1.12"
   },
   "directories": {
     "example": "examples"
