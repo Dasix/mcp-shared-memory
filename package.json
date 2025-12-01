@@ -70,7 +70,7 @@
     "jest": "^30.2.0",
     "nodemon": "^3.1.10",
     "npm-check-updates": "^19.1.1",
-    "prettier": "^3.6.0",
+    "prettier": "^3.7.3",
     "semantic-release": "^25.0.1",
     "ts-jest": "^29.4.0",
     "ts-node": "^10.9.2",
