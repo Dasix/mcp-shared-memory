@@ -62,7 +62,7 @@
     "@semantic-release/npm": "^13.1.1",
     "@types/jest": "^30.0.0",
     "@types/node": "^25.9.0",
-    "@typescript-eslint/eslint-plugin": "^8.52.0",
+    "@typescript-eslint/eslint-plugin": "^8.60.1",
     "@typescript-eslint/parser": "^8.59.0",
     "eslint": "^10.4.0",
     "eslint-config-prettier": "^10.1.5",
